@@ -1,0 +1,13 @@
+.header{
+    color: blueviolet;
+}
+
+th{
+    background-color: rgb(89, 180, 153);
+}
+
+table, th, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
