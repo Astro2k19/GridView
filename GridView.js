@@ -9,6 +9,7 @@ class GridView{
         @param [array] _element - куда выводить таблицу
         @param [array] _header - заголовк таблицы
         @param [array] _headerClass - css классы оформления заголовка
+        
      */
 
     constructor() {
